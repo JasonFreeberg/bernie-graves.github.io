@@ -1,6 +1,6 @@
 ## Bernie Graves
 
-![Picture of me](https://github.com/bernie-graves/bernie-graves.github.io/images/Me.jpeg)
+![Picture of me](https://github.com/bernie-graves/bernie-graves.github.io/images/Me.JPEG)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
