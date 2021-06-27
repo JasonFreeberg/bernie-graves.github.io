@@ -7,4 +7,5 @@ Hello my name is Bernie Graves. I'm a Statistics and Data Science major at UCSB 
 
 ### Project Experience
 My project experience consists of an NBA and WNBA final score predictor I worked on with a few friends from the UCSB Data Science Club. We used TensorFlow to build a model that given half time statistics would predict the final score. Our goal was to develop a model accurate enough to be with. Ultimately it was borderline successful when using the predictions to bet with. Below are some of the predictions it made. 
+
 ![good prediction](/images/GoodPrediction.png)
